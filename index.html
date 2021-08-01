@@ -36,13 +36,12 @@ async function init() {
 
   d3.select('svg').append('g')
     .attr('transform', 'translate('+50+','+50+')')
-    .call(d3.axisLeft(yScale).tickValues([10,20,50,100]).tickFormat(d3.format("~s")));
+    .call(d3.axisLeft(yScale).tickValues([0.4,0.6,,0.8,1.0]).tickFormat(d3.format("~s")));
 
   d3.select('svg').append('g')
     .attr('transform', 'translate('+50+','+250+')')
-    .call(d3.axisBottom(xScale).tickValues([10,20,50,100]).tickFormat(d3.format("~s")));
+    .call(d3.axisBottom(xScale).tickValues([3,7,11,15]).tickFormat(d3.format("~s")));
 }
-
 
 </script>
 </body>
