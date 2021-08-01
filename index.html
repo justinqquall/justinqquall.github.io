@@ -41,6 +41,18 @@ async function init() {
   d3.select('svg').append('g')
     .attr('transform', 'translate('+100+','+500+')')
     .call(d3.axisBottom(xScale).tickValues([3,5,7,9,11,13,15]).tickFormat(d3.format("d")));
+
+  d3.select('svg').append("text")
+    .attr("x", 200)
+    .attr("y", 550)
+    .text("CMS Total Quality Composite Score");
+
+  d3.select('svg').append("text")
+    .attr("x", 50)
+    .attr("y", 400)
+    .attr("transform", "rotate(-90)")
+    .text("Occupancy Rate");
+
 }
 
 </script>
