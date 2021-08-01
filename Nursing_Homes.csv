@@ -1,4 +1,4 @@
-Name,Occupancy Rate,Total Score,Urban/Rural,Ownership,Zip Code,County
+Name,Occupancy_Rate,Total_Score,Urban_Rural,Ownership,Zip_Code,County
 Holden Rehabilitation & Nursing Center,0.77,10,1,For Profit,1520,Worcester
 Hermitage Healthcare (The),0.78,8,1,For Profit,1602,Worcester
 Spaulding Nursing And Therapy Center - Brighton,0.49,13,1,Non-Profit,2134,Suffolk
