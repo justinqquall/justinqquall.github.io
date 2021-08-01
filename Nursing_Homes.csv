@@ -1,0 +1,372 @@
+Name,Occupancy Rate,Total Score,Urban/Rural,Ownership,Zip Code,County
+Holden Rehabilitation & Nursing Center,0.77,10,1,For Profit,1520,Worcester
+Hermitage Healthcare (The),0.78,8,1,For Profit,1602,Worcester
+Spaulding Nursing And Therapy Center - Brighton,0.49,13,1,Non-Profit,2134,Suffolk
+Knollwood Nursing Center,0.79,14,1,Non-Profit,1606,Worcester
+Life Care Center Of Leominster,0.66,14,1,For Profit,1453,Worcester
+Julian J Levitt Family Nursing Home,0.61,11,1,Non-Profit,1106,Hampden
+Pilgrim Rehabilitation & Skilled Nursing Center,0.72,10,1,Non-Profit,1960,Essex
+Pine Knoll Nursing Center,0.89,8,1,For Profit,2420,Middlesex
+John Scott House Nursing & Rehabilitation Center,0.7,12,1,For Profit,2184,Norfolk
+Royal Braintree Nursing And Rehabilitation Center,0.73,9,1,For Profit,2184,Norfolk
+Marlborough Hills Rehabilitation & Hlth Care Ctr,0.75,6,1,For Profit,1752,Middlesex
+Wedgemere Healthcare,0.68,6,1,For Profit,2780,Bristol
+Rivercrest Long Term Care,0.21,13,1,Non-Profit,1742,Middlesex
+Soldiers Home In Massachusetts,0.41,9,1,Non-Profit,2150,Suffolk
+Royal Of Fairhaven Nursing Center,0.57,12,1,For Profit,2719,Bristol
+Blueberry Hill Rehabilitation And Healthcare Ctr,0.85,8,1,For Profit,1915,Essex
+Foremost At Sharon Llc,0.66,11,1,For Profit,2067,Norfolk
+Dexter House Healthcare,0.52,10,1,For Profit,2148,Middlesex
+Oakhill Healthcare,0.61,7,1,For Profit,2346,Plymouth
+Saugus Center,0.73,8,1,For Profit,1906,Essex
+M I Nursing & Restorative Center,0.51,10,1,Non-Profit,1841,Essex
+Jewish Healthcare Center,0.84,13,1,Non-Profit,1609,Worcester
+Heritage Hall South,0.36,10,1,For Profit,1001,Hampden
+Casa De Ramana Rehabilitation Center,0.51,7,1,For Profit,1702,Middlesex
+Webster Park Rehabilitation And Healthcare Center,0.91,10,1,For Profit,2370,Plymouth
+Country Gardens Health And Rehabilitation Center,0.8,8,1,For Profit,2777,Bristol
+Life Care Center Of Acton,0.59,12,1,For Profit,1720,Middlesex
+Revolution Kimwell,0.82,9,1,For Profit,2720,Bristol
+Gardner Rehabilitation And Nursing Center,0.71,8,1,For Profit,1440,Worcester
+Twin Oaks Center,0.75,6,1,For Profit,1923,Essex
+Worcester Rehabilitation & Health Care Center,0.75,6,1,For Profit,1604,Worcester
+Sherrill House,0.62,12,1,Non-Profit,2130,Suffolk
+Plymouth Rehabilitation & Health Care Center,0.77,5,1,For Profit,2360,Plymouth
+Revolution Charlwell,0.66,9,1,For Profit,2062,Norfolk
+River Terrace Rehabilitation And Healthcare Ctr,0.91,12,1,For Profit,1523,Worcester
+Ellis Nursing Home (The),0.64,11,1,For Profit,2062,Norfolk
+Southshore Health Care Center,0.82,10,1,For Profit,2370,Plymouth
+Fitchburg Healthcare,0.64,7,1,For Profit,1420,Worcester
+"Oxford Rehabilitation & Health Care Center, The",0.77,0,1,For Profit,1830,Essex
+Bear Mountain At Worcester,0.74,8,1,For Profit,1604,Worcester
+Brockton Health Center,0.66,8,1,For Profit,2302,Plymouth
+Newton Wellesley Center For Alzheimer'S Care,0.74,12,,For Profit,2181,Norfolk
+Brentwood Rehabilitation And Healthcare Ctr (The),0.79,7,1,For Profit,1923,Essex
+Care One At Lowell,0.91,11,1,For Profit,1850,Middlesex
+Southeast Health Care Center,0.77,6,1,For Profit,2356,Bristol
+Fitchburg Rehabilitation And Nursing Center,0.64,5,1,For Profit,1420,Worcester
+Maplewood Center,0.64,6,1,For Profit,1913,Essex
+Holyoke Healthcare Center,0.6,7,1,For Profit,1040,Hampden
+Brandon Woods Of Dartmouth,0.82,11,1,For Profit,2748,Bristol
+Care One At Holyoke,0.94,14,1,For Profit,1040,Hampden
+Attleboro Healthcare,0.46,8,1,For Profit,2703,Bristol
+Westborough Healthcare,0.71,7,1,For Profit,1581,Worcester
+Beaumont Rehab & Skilled Nursing Ctr - Northbridge,0.69,13,1,For Profit,1534,Worcester
+Willimansett Center East,0.81,11,1,Non-Profit,1013,Hampden
+Fairview Commons Nursing & Rehabilitation Center,0.79,7,7,Non-Profit,1230,Berkshire
+Heritage Hall West,0.54,8,1,For Profit,1001,Hampden
+"Queen Anne Nursing Home, Inc",0.68,14,1,For Profit,2043,Plymouth
+Willimansett Center West,0.69,13,1,For Profit,1013,Hampden
+Care One At Northampton,0.68,10,1,For Profit,1060,Hampshire
+Alliance Health At West Acres,0.69,10,1,Non-Profit,2301,Plymouth
+Blaire House Of Milford,0.76,13,1,For Profit,1757,Worcester
+Bear Mountain At West Springfield,0.52,9,1,For Profit,1089,Hampden
+Quincy Health And Rehabilitation Center Llc,0.72,5,1,For Profit,2169,Norfolk
+Brandon Woods Of New Bedford,0.69,8,1,For Profit,2740,Bristol
+Vero Health & Rehab Of Hampden,0.87,8,1,For Profit,1036,Hampden
+Elizabeth Seton,0.89,13,1,Non-Profit,2481,Norfolk
+Garden Place Healthcare,0.73,5,1,For Profit,2703,Bristol
+Care One At Newton,0.74,11,1,For Profit,2462,Middlesex
+Day Brook Village Senior Living,0.85,7,1,Non-Profit,1040,Hampden
+Care One At Essex Park,0.66,9,1,For Profit,1915,Essex
+Port Healthcare Center,0.73,10,1,For Profit,1950,Essex
+Bear Hill Healthcare And Rehabilitation Center,0.77,13,1,For Profit,2180,Middlesex
+Carleton-Willard Village Retirement & Nursing Ctr,0.78,15,1,Non-Profit,1730,Middlesex
+Brush Hill Care Center,0.76,7,1,For Profit,2186,Norfolk
+Beaumont Rehab & Skilled Nursing Ctr - Westboro,0.76,11,1,For Profit,1581,Worcester
+Baypath At Duxbury Nursing & Rehabilitation Ctr,0.73,11,1,For Profit,2332,Plymouth
+Skilled Nursing Facility At North Hill (The),0.75,13,1,Non-Profit,2492,Norfolk
+Life Care Center Of The South Shore,0.64,12,1,For Profit,2066,Plymouth
+Webster Manor Rehabilitation & Health Care Center,0.83,9,1,For Profit,1570,Worcester
+Plymouth Harborside Healthcare,0.65,6,1,For Profit,2360,Plymouth
+Memory Support Of Heritage Hall,0.62,7,1,For Profit,1001,Hampden
+Care One At Lexington,0.57,12,1,For Profit,2420,Middlesex
+Hannah Duston Healthcare Center,0.76,9,1,For Profit,1832,Essex
+Chapin Center,0.76,7,1,Non-Profit,1104,Hampden
+Southbridge Rehabilitation & Health Care Center,0.81,8,1,For Profit,1550,Worcester
+Academy Manor,0.64,7,1,For Profit,1810,Essex
+Vero Health & Rehab Of Wilbraham,0.77,8,1,For Profit,1095,Hampden
+Quabbin Valley Healthcare,0.87,7,4,For Profit,1331,Worcester
+Lighthouse Nursing Care Center,0.81,12,1,Non-Profit,2151,Suffolk
+Northwood Rehabilitation & Healthcare Center,0.69,7,1,For Profit,1854,Middlesex
+Care One At Redstone,0.55,9,1,For Profit,1028,Hampden
+Rehabilitation & Nursing Center At Everett (The),0.64,8,1,For Profit,2149,Middlesex
+Chestnut Hill Of East Longmeadow,0.64,11,1,For Profit,1028,Hampden
+Charlene Manor Extended Care Facility,0.89,13,4,Non-Profit,1301,Franklin
+St Mary Health Care Center,0.53,10,1,Non-Profit,1610,Worcester
+Mt Greylock Extended Care Facility,0.94,12,1,Non-Profit,1201,Berkshire
+Ledgewood Rehabilitation & Skilled Nursing Center,0.73,12,1,For Profit,1915,Essex
+Blackstone Valley Health And Rehabilitation,0.86,8,1,Non-Profit,1588,Worcester
+Governors Center,0.81,6,1,Non-Profit,1085,Hampden
+"Highlands, The",0.68,12,1,For Profit,1420,Worcester
+"Fall River Jewish Home, Inc",0.74,13,1,Non-Profit,2720,Bristol
+Vero Health & Rehab Of Amesbury,0.68,6,1,For Profit,1913,Essex
+Chetwynde Healthcare,0.5,7,1,For Profit,2465,Middlesex
+South Dennis Healthcare,0.61,9,1,For Profit,2660,Barnstable
+Dedham Healthcare,0.5,6,1,Non-Profit,2026,Norfolk
+Sachem Center For Health & Rehabilitation,0.68,10,1,For Profit,2333,Plymouth
+Care One At Peabody,0.8,7,1,For Profit,1960,Essex
+West Newton Healthcare,0.58,8,1,For Profit,2465,Middlesex
+"Reservoir Center For Health & Rehabilitation, The",0.8,12,1,For Profit,1752,Middlesex
+"Oaks, The",0.68,11,1,For Profit,2745,Bristol
+Melrose Healthcare,0.53,8,1,For Profit,2176,Middlesex
+Liberty Commons,0.83,13,1,For Profit,2650,Barnstable
+East Longmeadow Skilled Nursing Center,1.06,8,1,For Profit,1028,Hampden
+Country Center For Health & Rehabilitation,0.83,13,1,For Profit,1950,Essex
+Cedar View Rehabilitation And Healthcare Center,0.79,9,1,For Profit,1844,Essex
+Oakdale Rehabilitation & Skilled Nursing Center,0.85,13,1,For Profit,1583,Worcester
+Buckley-Greenfield Healthcare Center,0.67,13,4,For Profit,1301,Franklin
+Cape Heritage Rehabilitation & Health Care Center,0.78,11,1,For Profit,2563,Barnstable
+Cape Regency Rehabilitation & Health Care Center,0.66,9,1,For Profit,2632,Barnstable
+Medford Rehabilitation And Nursing Center,0.76,8,1,For Profit,2155,Middlesex
+Williamstown Commons Nursing & Rehab,0.66,9,4,Non-Profit,1267,Berkshire
+North Adams Commons Nursing & Rehabilitation Cente,0.75,12,4,Non-Profit,1247,Berkshire
+Norwood Healthcare,0.62,8,1,For Profit,2062,Norfolk
+Alliance Health At Abbott,0.68,13,1,Non-Profit,1902,Essex
+Bourne Manor Extended Care Facility,0.87,8,1,Non-Profit,2532,Barnstable
+Windsor Nursing & Retirement Home,0.73,7,1,Non-Profit,2664,Barnstable
+Renaissance Manor On Cabot,0.27,14,1,For Profit,1040,Hampden
+Keystone Center,0.37,14,1,For Profit,1453,Worcester
+Care One At Randolph,0.53,8,1,For Profit,2368,Norfolk
+"Winchester Nursing Center, Inc",0.87,15,1,For Profit,1890,Middlesex
+Poet'S Seat Health Care Center,0.73,7,4,For Profit,1301,Franklin
+Quaboag Rehabilitation & Skilled Care Facility,0.88,13,2,Non-Profit,1585,Worcester
+Linda Manor Extended Care Facility,0.94,11,1,Non-Profit,1053,Hampshire
+Hathaway Manor Extended Care,0.89,6,1,For Profit,2740,Bristol
+Brookhaven At Lexington,0.2,14,1,Non-Profit,2421,Middlesex
+Jml Care Center  Inc,0.59,11,1,Non-Profit,2540,Barnstable
+Chestnut Woods Rehabilitation And Healthcare Ctr,0.88,12,1,For Profit,1906,Essex
+Mayflower Place Nursing & Rehabilitation Center,0.76,12,1,For Profit,2673,Barnstable
+Park Place Rehabilitation & Skilled Care Center,0.84,13,1,For Profit,2136,Suffolk
+"Penacook Place, Inc",0.47,6,1,Non-Profit,1830,Essex
+Neville Center At Fresh Pond For Nursing & Rehab,0.9,13,1,Non-Profit,2138,Middlesex
+Lutheran Rehabilitation & Skilled Care Center,0.83,8,1,For Profit,1609,Worcester
+Westfield Center,0.58,12,1,For Profit,1085,Hampden
+Guardian Center (The),0.6,12,1,Non-Profit,2301,Plymouth
+Westfield Gardens Nursing And Rehab,0.47,8,1,For Profit,1085,Hampden
+Christopher House Of Worcester,0.78,12,1,Non-Profit,1605,Worcester
+Springside Rehabilitation And Skilled Care Center,0.76,7,1,For Profit,1201,Berkshire
+Alden Court Nursing Care & Rehabilitation Center,0.73,14,1,For Profit,2719,Bristol
+Alliance Health At Baldwinville,0.82,10,1,Non-Profit,1436,Worcester
+Sacred Heart Nursing Home,0.62,10,1,Non-Profit,2740,Bristol
+Parsons Hill Rehabilitation & Health Care Center,0.86,6,1,For Profit,1603,Worcester
+Sixteen Acres Healthcare Center,0.64,10,1,For Profit,1118,Hampden
+"Woburn Nursing Center, Inc",0.64,13,1,For Profit,1801,Middlesex
+Lanessa Extended Care,0.76,7,1,For Profit,1570,Worcester
+Alliance Health At Devereux,0.65,9,1,Non-Profit,1945,Essex
+Wakefield Center,0.77,11,1,For Profit,1880,Middlesex
+Lakeview House Skld Nrsg  And Residential Care Fac,0.72,11,1,For Profit,1830,Essex
+Clifton Rehabilitation Nursing Center,0.59,13,1,For Profit,2725,Bristol
+Coleman House,0.96,13,1,For Profit,1532,Worcester
+Wingate At Haverhill,0.45,9,1,For Profit,1830,Essex
+Maristhill Nursing & Rehabilitation Center,0.68,11,1,Non-Profit,2453,Middlesex
+Nevins Nursing & Rehabilitation Center,0.74,11,1,Non-Profit,1844,Essex
+Lafayette Rehabilitation & Skilled Nursing Facilit,0.62,15,1,Non-Profit,1945,Essex
+Medway Country Manor Skilled Nursing & Rehabilitat,0.75,8,1,For Profit,2053,Norfolk
+"Advocate Healthcare Of East Boston, Llc",0.57,10,1,For Profit,2128,Suffolk
+St Joseph Manor Health Care Inc,0.64,6,1,Non-Profit,2302,Plymouth
+Marian Manor,0.41,9,1,Non-Profit,2127,Suffolk
+Armenian Nursing & Rehabilitation Center,0.56,13,1,Non-Profit,2130,Suffolk
+Hellenic Nursing & Rehabilitation Center,0.56,10,1,Non-Profit,2021,Norfolk
+"Belmont Manor Nursing Home, In",0.91,13,1,For Profit,2478,Middlesex
+Center For Extended Care At Amherst,0.69,6,1,For Profit,1002,Hampshire
+Apple Valley Center,0.79,8,1,For Profit,1432,Middlesex
+Savoy Nursing & Rehab Ctr,0.76,7,1,For Profit,2740,Bristol
+Vero Health & Rehab Of Watertown,0.64,7,1,For Profit,2472,Middlesex
+Stonehedge Health Care Center,0.81,5,1,For Profit,2132,Suffolk
+St Patrick'S Manor,0.64,10,1,Non-Profit,1701,Middlesex
+Bear Mountain At Reading,0.7,9,1,For Profit,1867,Middlesex
+Vero Health & Rehab Of Revere,0.76,6,1,For Profit,2151,Suffolk
+"Aberjona Nursing Center, Inc",0.77,14,1,For Profit,1890,Middlesex
+"Boston Home, Inc (The)",0.94,12,1,Non-Profit,2124,Suffolk
+Colony Center For Health & Rehabilitation,0.57,10,1,For Profit,2351,Plymouth
+"Bostonian Nursing Care & Rehabilitation Ctr, The",0.72,11,1,Non-Profit,2122,Suffolk
+Briarwood Rehabilitation & Healthcare Center,0.93,9,1,For Profit,2492,Norfolk
+St Francis Rehabilitation & Nursing Center,0.85,11,1,For Profit,1604,Worcester
+Odd Fellows Home Of Massachusetts,0.75,7,1,Non-Profit,1606,Worcester
+Meadow Green Nursing And Rehabilitation Center,0.61,13,1,For Profit,2453,Middlesex
+Blaire House Of Worcester,0.75,9,1,For Profit,1604,Worcester
+Blue Hills Health And Rehabilitation Center,0.79,7,1,For Profit,2072,Norfolk
+Braintree Manor Healthcare,0.72,9,1,For Profit,2184,Norfolk
+Catholic Memorial Home,0.74,10,1,Non-Profit,2720,Bristol
+Hathorne Hill,0.74,11,1,For Profit,1923,Essex
+Katzman Family Center For Living,0.84,13,1,Non-Profit,2150,Suffolk
+Sterling Village,0.89,10,1,For Profit,1564,Worcester
+Carvalho Grove Health And Rehabilitation Center,0.7,6,1,For Profit,2723,Bristol
+Craneville Place Rehabilitation & Skilled  Care Ct,0.89,8,1,For Profit,1226,Berkshire
+Den-Mar Health And Rehabilitation Center,0.49,10,1,For Profit,1966,Essex
+Fairhaven Healthcare Center,0.66,5,1,Non-Profit,1854,Middlesex
+"Royal Nursing Center, Llc",0.68,8,1,For Profit,2540,Barnstable
+Cedarwood Gardens,0.67,9,1,For Profit,2038,Norfolk
+Countryside Health Care Of Milford,0.71,4,1,Non-Profit,1757,Worcester
+Gloucester Healthcare,0.51,9,1,For Profit,1930,Essex
+Highview Of Northampton,0.67,9,1,For Profit,1053,Hampshire
+Vero Health & Rehab Of Worcester,0.76,8,1,For Profit,1605,Worcester
+Laurel Ridge Rehab And Skilled Care Center,0.81,12,1,Non-Profit,2130,Suffolk
+Vna Senior Living - Highland Avenue Campus,0.82,6,1,Non-Profit,2143,Middlesex
+Jesmond Nursing Home,0.76,10,1,For Profit,1908,Essex
+Jeffrey & Susan Brudnick Center For Living,0.72,12,1,Non-Profit,1960,Essex
+Longmeadow Of Taunton,0.8,12,1,For Profit,2780,Bristol
+Madonna Manor Nursing Home,0.57,8,1,Non-Profit,2760,Bristol
+Maples Rehabilitation & Nursing Center,0.66,12,1,For Profit,2093,Norfolk
+Marian Manor Of Taunton,0.73,8,1,Non-Profit,2780,Bristol
+Royal Meadow View Center,0.58,9,1,For Profit,1864,Middlesex
+Mission Care At Holyoke,0.45,9,1,Non-Profit,1040,Hampden
+"New Bedford Jewish Convalescent Home, Inc",0.85,13,1,Non-Profit,2740,Bristol
+Royal Norwell Nursing & Rehabilitation Center Llc,0.8,10,1,For Profit,2061,Plymouth
+Brookside Rehabilitation And Healthcare Center,0.73,11,1,For Profit,1570,Worcester
+Our Ladys Haven Of Fairhaven Inc,0.58,10,1,Non-Profit,2719,Bristol
+Presentation Rehab And Skilled Care Center,0.76,8,1,Non-Profit,2135,Suffolk
+Tremont Health Care Center,0.88,7,1,For Profit,2571,Plymouth
+Belvidere Healthcare Center,0.59,10,1,For Profit,1852,Middlesex
+Shrewsbury Nursing & Rehabilitation Center,0.76,11,1,For Profit,1545,Worcester
+St Joseph Rehab & Nursing Care Center,0.88,13,1,For Profit,2122,Suffolk
+Sunny Acres Nursing Home,0.66,11,1,For Profit,1824,Middlesex
+Timberlyn Heights Nursing And Rehabilitation,0.89,13,7,For Profit,1230,Berkshire
+Parkway Health And Rehabilitation Center,0.83,7,1,For Profit,2132,Suffolk
+West Roxbury Health & Rehabilitation Center,0.72,10,1,For Profit,2132,Suffolk
+West Side House Ltc Facility,0.62,8,1,For Profit,1609,Worcester
+"Pavilion , The",0.77,15,1,For Profit,2601,Barnstable
+Care One At Wilmington,0.74,14,1,For Profit,1887,Middlesex
+Royal Wood Mill Center,0.66,7,1,For Profit,1841,Essex
+North End Rehabilitation And Healthcare Center,0.72,10,1,For Profit,2109,Suffolk
+Palm Skilled  Nrsing Cr & Ctr For Rehab Excellence,0.78,10,1,For Profit,1824,Middlesex
+Care One At Brookline,0.64,11,,For Profit,2146,Norfolk
+Prescott House,0.75,12,1,For Profit,1845,Essex
+Willow Manor,0.77,8,1,For Profit,1851,Middlesex
+Wareham Healthcare,0.52,6,1,For Profit,2571,Plymouth
+Beaumont Rehab & Skilled Nursing Ctr - Northboro,0.75,9,1,For Profit,1532,Worcester
+South Cove Manor Nursing & Rehabilitation Center,0.85,12,1,Non-Profit,2169,Norfolk
+D'Youville Senior Care,0.81,10,1,Non-Profit,1854,Middlesex
+Eliot Center For Health & Rehabilitation,0.62,8,1,For Profit,1760,Middlesex
+Sippican Healthcare Center,0.66,11,1,For Profit,2738,Plymouth
+Cambridge Rehabilitation & Nursing Center,0.78,10,1,For Profit,2138,Middlesex
+John Adams Healthcare Center,0.71,13,1,For Profit,2169,Norfolk
+Glen Ridge Nursing Care Center,0.67,9,1,For Profit,2155,Middlesex
+Wingate At Harwich,0.68,6,1,For Profit,2645,Barnstable
+Life Care Center Of The North Shore,0.63,11,1,For Profit,1902,Essex
+Sutton Hill Center,0.8,10,1,For Profit,1845,Essex
+Sudbury Pines Extended Care,0.85,9,1,For Profit,1776,Middlesex
+Mattapan Health & Rehabilitation Center,0.73,9,1,For Profit,2126,Suffolk
+Wachusett Manor,0.71,10,1,For Profit,1440,Worcester
+Bethany Skilled Nursing Facility,0.82,14,1,Non-Profit,1701,Middlesex
+Walpole Healthcare,0.54,8,1,For Profit,2081,Norfolk
+Town And Country Health Care Center,0.7,4,1,For Profit,1851,Middlesex
+Royal Cape Cod Nursing & Rehabilitation Center,0.56,7,1,For Profit,2532,Barnstable
+Chicopee Rehabilitation And Nursing,0.63,10,1,For Profit,1020,Hampden
+German Center For Extended Care,0.81,13,1,Non-Profit,2132,Suffolk
+Carlyle House,0.89,10,1,For Profit,1701,Middlesex
+Life Care Center Of Wilbraham,0.7,13,1,For Profit,1095,Hampden
+Wingate At Silver Lake,0.74,11,1,For Profit,2364,Plymouth
+Courtyard Nursing Care Center,0.71,10,1,For Profit,2155,Middlesex
+Life Care Center Of Merrimack Valley,0.58,10,1,For Profit,1862,Middlesex
+Hannah B G Shaw Home,0.93,14,1,Non-Profit,2346,Plymouth
+Blaire House Of Tewksbury,0.8,9,1,For Profit,1876,Middlesex
+Brigham Health And Rehabilitation Center,0.84,10,1,For Profit,1950,Essex
+Mary Ann Morse Nursing & Rehabilitation,0.72,10,1,Non-Profit,1760,Middlesex
+Mont Marie Rehabilitation & Healthcare Center,0.86,9,1,For Profit,1040,Hampden
+Eastpointe Rehab Center,0.65,8,1,For Profit,2150,Suffolk
+Bear Mountain At Andover,0.47,11,1,For Profit,1810,Essex
+Milford Center,0.73,11,1,For Profit,1757,Worcester
+Life Care Center Of Attleboro,0.72,11,1,For Profit,2703,Bristol
+Seacoast Nursing & Rehabilitation Center Inc,0.73,14,1,Non-Profit,1930,Essex
+Wilmington Rehab Center,0.54,10,1,For Profit,1887,Middlesex
+Life Care Center Of Nashoba Valley,0.52,8,1,For Profit,1460,Middlesex
+Sancta Maria Nursing Facility,0.88,10,1,Non-Profit,2138,Middlesex
+Heathwood Healthcare,0.42,10,1,For Profit,2467,Middlesex
+Notre Dame Long Term Care Center,0.82,12,1,Non-Profit,1605,Worcester
+Mount Carmel Care Center,0.89,14,7,Non-Profit,1240,Berkshire
+Park Avenue Health Center,0.69,8,,For Profit,2174,Middlesex
+Westford House,0.79,7,1,For Profit,1886,Middlesex
+Sarah Brayton Nursing Care Ctr,0.77,9,1,For Profit,2720,Bristol
+Royal At Wayland Rehabilitation And Nursing Center,0.75,8,1,For Profit,1778,Middlesex
+Beaumont At University Campus,0.55,11,1,For Profit,1605,Worcester
+Southwood At Norwell Nursing Ctr,0.6,10,1,For Profit,2061,Plymouth
+"Waterview Lodge Llc, Rehabilitation & Healthcare",0.84,11,1,For Profit,1721,Middlesex
+Southpointe Rehab Center,0.66,8,1,For Profit,2721,Bristol
+Victoria Haven Nursing Facility,0.78,13,1,For Profit,2062,Norfolk
+Pope Nursing Home,0.51,12,1,For Profit,2188,Norfolk
+Riverbend Of South Natick,0.53,12,1,For Profit,1760,Middlesex
+Bridgewater Nursing Home,0.61,10,1,For Profit,2324,Plymouth
+Alliance Health At Marie Esther,0.83,13,1,Non-Profit,1752,Middlesex
+Nemasket Healthcare Center,0.81,12,1,For Profit,2346,Plymouth
+Windemere Nursing & Rehab Ctr On Marthas Vineyard,0.48,14,4,Non-Profit,2557,Dukes
+Care One At Weymouth,0.63,10,1,For Profit,2189,Norfolk
+Advinia Care At Provincetown,0.85,12,7,Non-Profit,2657,Barnstable
+"Berkeley Retirement Home,The",0.94,10,1,Non-Profit,1841,Essex
+Agawam Healthcare,0.38,7,1,For Profit,1001,Hampden
+Overlook Masonic Health Center,0.83,11,2,Non-Profit,1507,Worcester
+Salem Rehab Center,0.66,11,1,For Profit,1970,Essex
+Thomas Upham House,0.75,12,1,For Profit,2052,Norfolk
+Holy Trinity Eastern Orthodox N & R Center,0.7,8,1,Non-Profit,1606,Worcester
+Care One At New Bedford,0.79,11,1,For Profit,2745,Bristol
+Alliance Health At Rosewood,0.66,12,1,Non-Profit,1961,Essex
+Copley At Stoughton Nursing Care Center,0.72,14,1,For Profit,2072,Norfolk
+Benjamin Healthcare Center,0.42,9,1,Non-Profit,2120,Suffolk
+Life Care Center Of Raynham,0.6,11,1,For Profit,2767,Bristol
+"Campion Health & Wellness, Inc",0.96,13,1,Non-Profit,2493,Middlesex
+Elmhurst Healthcare (The),0.52,14,1,For Profit,2176,Middlesex
+Life Care Center Of Auburn,0.69,10,1,For Profit,1501,Worcester
+Harbor House Nursing & Rehabilitation Center,0.67,14,1,For Profit,2043,Plymouth
+Care One At Concord,0.71,12,1,For Profit,1742,Middlesex
+Life Care Center Of Plymouth,0.66,14,1,For Profit,2360,Plymouth
+Pleasant Bay Of Brewster Rehab Center,0.74,13,1,For Profit,2631,Barnstable
+Meadows Of Central Massachusetts (The),0.41,9,1,For Profit,1542,Worcester
+Commons Residence At Orchard Cove,0.62,12,1,Non-Profit,2021,Norfolk
+Royal Megansett Nursing & Rehabilitation,0.75,9,1,For Profit,2556,Barnstable
+Alliance Health At Marina Bay,0.8,14,1,Non-Profit,2171,Norfolk
+Oak Knoll Healthcare Center,0.67,8,1,For Profit,1701,Middlesex
+Stone Rehabilitation And Senior Living,0.84,10,,Non-Profit,2164,Middlesex
+Hillcrest Commons Nursing & Rehabilitation Center,0.75,5,1,Non-Profit,1201,Berkshire
+Sea View Convalescent And Nursing Home,0.47,7,1,For Profit,1969,Essex
+Royal Of Cotuit,0.59,11,1,For Profit,2649,Barnstable
+Baypointe Rehab Center,0.72,12,1,For Profit,2301,Plymouth
+Loomis Lakeside At Reeds Landing,0.9,10,1,Non-Profit,1109,Hampden
+Emerson Rehabilitation & Transitional Care Unit,0.49,10,1,Non-Profit,1742,Middlesex
+Wingate At Needham,0.7,7,,For Profit,2194,Norfolk
+Elaine Center At Hadley,0.55,10,1,For Profit,1035,Hampshire
+Life Care Center Of West Bridgewater,0.73,13,1,For Profit,2379,Plymouth
+Timothy Daniels House,0.69,12,1,For Profit,1746,Middlesex
+Bear Mountain At Sudbury,0.54,8,1,For Profit,1776,Middlesex
+Hancock Park Rehabilitation And Nursing Center,0.76,11,1,For Profit,2169,Norfolk
+Care One At Millbury,0.77,11,1,For Profit,1527,Worcester
+Cardigan Nursing & Rehabilitation Center,0.69,9,1,For Profit,2066,Plymouth
+Fall River Healthcare,0.75,6,1,For Profit,2720,Bristol
+"Meadows, The",0.61,11,1,Non-Profit,1845,Essex
+Beaumont Rehab & Skilled Nursing Ctr - Natick,0.85,11,1,For Profit,1760,Middlesex
+Life Care Center Of Stoneham,0.61,14,1,For Profit,2180,Middlesex
+Greenwood Nursing & Rehabilitation Center,0.68,11,1,For Profit,1880,Middlesex
+Mary'S Meadow At Providence Place,0.9,15,1,Non-Profit,1040,Hampden
+Dwyer Home,0.82,11,1,Non-Profit,2190,Norfolk
+Hunt Nursing & Rehab Center,0.6,9,1,Non-Profit,1923,Essex
+Baker-Katz Skilled Nursing And Rehabilitation Ctr,0.54,8,1,For Profit,1830,Essex
+Somerset Ridge Center,0.79,10,1,For Profit,2726,Bristol
+Phillips Manor Nursing Home,0.66,8,1,For Profit,1905,Essex
+Lee Healthcare,0.58,7,7,For Profit,1238,Berkshire
+Masconomet Healthcare Center,0.7,10,1,For Profit,1983,Essex
+Serenity Hill Nursing Center,0.66,9,1,For Profit,2093,Norfolk
+Lasell House,0.47,15,1,Non-Profit,2466,Middlesex
+Wingate At Chestnut Hill,0.68,10,1,For Profit,2467,Middlesex
+Vero Health & Rehab Of South Hadley,0.72,8,1,For Profit,1075,Hampshire
+Recuperative Services Unit-Hebrew Rehab Center,0.66,15,1,Non-Profit,2131,Suffolk
+Lydia Taft House,0.6,11,1,For Profit,1569,Worcester
+Berkshire Place,0.87,13,1,Non-Profit,1201,Berkshire
+Palmer Healthcare Center,0.86,11,1,For Profit,1069,Hampden
+Kimball Farms Nursing Care Center,0.84,12,7,Non-Profit,1240,Berkshire
+Heritage Hall North,0.58,11,1,For Profit,1001,Hampden
+Continuing Care At Brooksby Village,0.62,14,1,Non-Profit,1960,Essex
+"New England Homes For The Deaf, Inc",0.88,13,1,Non-Profit,1923,Essex
+Alliance Health At Braintree,0.77,11,1,Non-Profit,2184,Norfolk
+Brighton House Rehabilitation & Nursing Center,0.73,12,1,For Profit,2135,Suffolk
+Berkshire Rehabilitation & Skilled Care Center,0.95,9,10,For Profit,1255,Berkshire
+Our Island Home,0.77,4,7,Non-Profit,2554,Nantucket
+Linden Ponds,0.91,12,1,Non-Profit,2043,Plymouth
+Newbridge On The Charles Skilled Nursing Facility,1.05,15,1,Non-Profit,2026,Norfolk
+Leonard Florence Center For Living,0.86,9,1,Non-Profit,2150,Suffolk
+D'Youville Care For Advanced Therapy,0.81,14,1,Non-Profit,1854,Middlesex
+Whittier Westborough Transitional Care Unit,0.74,13,1,For Profit,1581,Worcester
+Seven Hills Pediatric Center,0.96,13,1,Non-Profit,1450,Middlesex
+Benchmark Snr Living At The Commons In Lincoln Snf,0.96,12,1,For Profit,1773,Middlesex
+Whittier Bradford Transitional Care Unit,0.71,14,1,For Profit,1835,Essex
+New England Sinai Hospital Transitional Care Unit,2.11,9,1,For Profit,2072,Norfolk
+New England Pediatric Care,0.88,12,1,For Profit,1862,Middlesex
