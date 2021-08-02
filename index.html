@@ -30,15 +30,19 @@ path {
 </style>
 <body onload='init()'>
 
+<div height=800>
+
 <h3>Nursing Homes: Do occupancy rates reflect quality levels?</h3>
 
 <p id="test">There is a wide range of quality performance across different nursing homes...</p>
 
-<button onclick="cleary()" id="keybutton">What does the distribution of occupancy look like?</button>
+<button onclick="cleary()" id="keybutton">What does the distribution of occupancy look like?</button><br>
 
-<button onclick="cleary2()" id="keybutton2" style="visibility:hidden";>How can we generalize an answer and look at the data?</button>
+<button onclick="cleary2()" id="keybutton2" style="visibility:hidden";>How can we generalize an answer and look at the data?</button><br>
 
-<button onclick="location.reload()" id="keybutton3" style="visibility:hidden";>Restart the interactive visualization</button>
+<button onclick="location.reload()" id="keybutton3" style="visibility:hidden";>Restart the interactive visualization</button><br>
+
+</div>
 
 <svg width=600 height=600></svg>
 <div id="tooltip"></div>
@@ -166,7 +170,7 @@ async function cleary2() {
 document.getElementById("keybutton2").style.visibility = "hidden";
 document.getElementById("keybutton3").style.visibility = "visible";
 
-  document.getElementById("test").innerHTML = "Surprisingly, less than 10% difference in average occupancy across the quality range.  Go ahead and explore the different facilities";
+  document.getElementById("test").innerHTML = "Surprisingly, less than 10% difference in average occupancy across the quality range.  Go ahead and explore the different facilities!";
 
     const data = await d3.csv(
     'https://justinqquall.github.io/Nursing_Homes.csv');
@@ -240,3 +244,4 @@ d3.select('svg')
 
 </body>
 </html>
+
